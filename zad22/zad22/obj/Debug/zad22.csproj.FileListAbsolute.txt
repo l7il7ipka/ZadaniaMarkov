@@ -1,0 +1,7 @@
+C:\Users\topol\Desktop\Новая папка (2)\2\zad22\zad22\bin\Debug\zad22.exe.config
+C:\Users\topol\Desktop\Новая папка (2)\2\zad22\zad22\bin\Debug\zad22.exe
+C:\Users\topol\Desktop\Новая папка (2)\2\zad22\zad22\bin\Debug\zad22.pdb
+C:\Users\topol\Desktop\Новая папка (2)\2\zad22\zad22\obj\Debug\zad22.csproj.AssemblyReference.cache
+C:\Users\topol\Desktop\Новая папка (2)\2\zad22\zad22\obj\Debug\zad22.csproj.CoreCompileInputs.cache
+C:\Users\topol\Desktop\Новая папка (2)\2\zad22\zad22\obj\Debug\zad22.exe
+C:\Users\topol\Desktop\Новая папка (2)\2\zad22\zad22\obj\Debug\zad22.pdb

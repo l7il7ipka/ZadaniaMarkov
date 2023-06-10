@@ -1,0 +1,10 @@
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 13\zad 13\bin\Debug\zad 13.exe.config
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 13\zad 13\bin\Debug\zad 13.exe
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 13\zad 13\bin\Debug\zad 13.pdb
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 13\zad 13\obj\Debug\zad 13.csproj.AssemblyReference.cache
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 13\zad 13\obj\Debug\zad_13.Form1.resources
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 13\zad 13\obj\Debug\zad_13.Properties.Resources.resources
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 13\zad 13\obj\Debug\zad 13.csproj.GenerateResource.cache
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 13\zad 13\obj\Debug\zad 13.csproj.CoreCompileInputs.cache
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 13\zad 13\obj\Debug\zad 13.exe
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 13\zad 13\obj\Debug\zad 13.pdb

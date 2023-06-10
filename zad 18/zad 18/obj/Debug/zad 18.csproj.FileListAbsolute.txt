@@ -1,0 +1,7 @@
+C:\Users\topol\source\repos\zad 18\zad 18\bin\Debug\zad 18.exe.config
+C:\Users\topol\source\repos\zad 18\zad 18\bin\Debug\zad 18.exe
+C:\Users\topol\source\repos\zad 18\zad 18\bin\Debug\zad 18.pdb
+C:\Users\topol\source\repos\zad 18\zad 18\obj\Debug\zad 18.csproj.AssemblyReference.cache
+C:\Users\topol\source\repos\zad 18\zad 18\obj\Debug\zad 18.csproj.CoreCompileInputs.cache
+C:\Users\topol\source\repos\zad 18\zad 18\obj\Debug\zad 18.exe
+C:\Users\topol\source\repos\zad 18\zad 18\obj\Debug\zad 18.pdb

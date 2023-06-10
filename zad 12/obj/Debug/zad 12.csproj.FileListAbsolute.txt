@@ -1,0 +1,20 @@
+C:\фмф\Топольский\zad 12\bin\Debug\zad 12.exe.config
+C:\фмф\Топольский\zad 12\bin\Debug\zad 12.exe
+C:\фмф\Топольский\zad 12\bin\Debug\zad 12.pdb
+C:\фмф\Топольский\zad 12\obj\Debug\zad 12.csproj.AssemblyReference.cache
+C:\фмф\Топольский\zad 12\obj\Debug\zad_12.Form1.resources
+C:\фмф\Топольский\zad 12\obj\Debug\zad_12.Properties.Resources.resources
+C:\фмф\Топольский\zad 12\obj\Debug\zad 12.csproj.GenerateResource.cache
+C:\фмф\Топольский\zad 12\obj\Debug\zad 12.csproj.CoreCompileInputs.cache
+C:\фмф\Топольский\zad 12\obj\Debug\zad 12.exe
+C:\фмф\Топольский\zad 12\obj\Debug\zad 12.pdb
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 12\bin\Debug\zad 12.exe.config
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 12\bin\Debug\zad 12.exe
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 12\bin\Debug\zad 12.pdb
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 12\obj\Debug\zad 12.csproj.AssemblyReference.cache
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 12\obj\Debug\zad_12.Form1.resources
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 12\obj\Debug\zad_12.Properties.Resources.resources
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 12\obj\Debug\zad 12.csproj.GenerateResource.cache
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 12\obj\Debug\zad 12.csproj.CoreCompileInputs.cache
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 12\obj\Debug\zad 12.exe
+C:\Users\topol\Desktop\Новая папка (2)\2\zad 12\obj\Debug\zad 12.pdb
